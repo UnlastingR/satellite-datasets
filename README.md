@@ -153,6 +153,7 @@ As part of the [EU Copernicus program](https://en.wikipedia.org/wiki/Copernicus_
 *  [IDEABench Benchmark Dataset](https://github.com/IDEAtlas/ai-dua-mapping) -> Mapping and Benchmarking Urban Deprivation for a Global Sample of Cities
 * [ImpactMesh](https://github.com/IBM/ImpactMesh) -> a large-scale multimodal, multitemporal dataset for flood and wildfire mapping
 * [Sen12Landslides](https://github.com/PaulH97/Sen12Landslides) -> Spatio-Temporal Landslide & Anomaly Detection Dataset
+* [Cryo-Bench](https://github.com/Sk-2103/Cryo-Bench) -> A Benchmark for Evaluating Geospatial Foundation Models on Cryosphere Applications
 
 ## Landsat
 Long running US program -> see [Wikipedia](https://en.wikipedia.org/wiki/Landsat_program)
