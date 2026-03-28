@@ -165,6 +165,7 @@ Long running US program -> see [Wikipedia](https://en.wikipedia.org/wiki/Landsat
 * [Landsat-mosaic-tiler](https://github.com/kylebarron/landsat-mosaic-tiler) -> This repo hosts all the code for landsatlive.live website and APIs.
 * [LandsatSCD](https://github.com/ggsDing/SCanNet/tree/main) -> a change detection dataset, it consists of 8468 pairs of images, each having the spatial resolution of 416 × 416
 * [The Landsat Irish Coastal Segmentation Dataset](https://zenodo.org/records/8414665)
+* [Wildfire-Spread-Dataset](https://github.com/BEEILAB/Wildfire-Spread-Dataset) -> ABNextFire: A Multi-Source Deep Learning Based Dataset for Wildfire Spread Prediction
 
 ## VENμS
 Vegetation and Environment monitoring on a New Micro-Satellite ([VENμS](https://en.wikipedia.org/wiki/VEN%CE%BCS))
@@ -545,8 +546,10 @@ Since there is a whole community around GEE I will not reproduce it here but lis
 * [HIT-UAV-Infrared-Thermal-Dataset](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset) -> A High-altitude Infrared Thermal Object Detection Dataset for Unmanned Aerial Vehicles
 * [caltech-aerial-rgbt-dataset](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset) -> synchronized RGB, thermal, GPS, and IMU data
 * [Leafy Spurge Dataset](https://leafy-spurge-dataset.github.io/) -> Real-world Weed Classification Within Aerial Drone Imagery
+* [Agriculture-Vision 2021 Dataset](https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021)
 * [UAV-HSI-Crop-Dataset](https://github.com/MrSuperNiu/UAV-HSI-Crop-Dataset) -> dataset for "HSI-TransUNet: A Transformer based semantic segmentation model for crop mapping from UAV hyperspectral imagery"
 * [UAVVaste](https://github.com/PUTvision/UAVVaste) -> COCO-like dataset and effective waste detection in aerial images
+* [BSB-Aerial-Dataset](https://github.com/osmarluiz/BSB-Aerial-Dataset) -> A panoptic segmentation dataset of aerial imagery from Brasilia, Brazil.
 
 ## Other datasets
 
@@ -554,6 +557,7 @@ Since there is a whole community around GEE I will not reproduce it here but lis
 * [RSOD-Dataset](https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-) -> dataset for object detection in PASCAL VOC format. Aircraft, playgrounds, overpasses & oiltanks
 * [VHR-10_dataset_coco](https://github.com/chaozhong2010/VHR-10_dataset_coco) -> Object detection and instance segmentation dataset based on NWPU VHR-10 dataset. RGB & SAR
 * [MAR20](https://gcheng-nwpu.github.io/) -> Military Aircraft Recognition dataset
+* [RSAPS-ASD](https://github.com/SKLSEIIT/RSAPS-ASD) -> A Remote Sensing Airport Panoptic Segmentation with Airplane States dataset, constructed in "Airplane State Discrimination from Single-temporal High-Resolution Remote Sensing Images"
 * [Sewage-Treatment-Plant-Dataset](https://github.com/peijinwang/Sewage-Treatment-Plant-Dataset) -> object detection
 * [TGRS-HRRSD-Dataset](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset) -> High Resolution Remote Sensing Detection (HRRSD)
 * [OGST](https://data.mendeley.com/datasets/bkxj8z84m9/3) -> Oil and Gas Tank Dataset
